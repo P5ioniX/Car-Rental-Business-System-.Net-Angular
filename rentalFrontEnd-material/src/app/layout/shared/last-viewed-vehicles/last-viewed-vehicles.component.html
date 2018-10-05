@@ -1,0 +1,19 @@
+
+<div *ngIf="localVehicles">
+  <br>
+<mat-expansion-panel>
+    <mat-expansion-panel-header>
+      <mat-panel-title>
+        Previously Viewed Vehicles
+      </mat-panel-title>
+      <mat-panel-description>
+        Click To Expand
+      </mat-panel-description>
+    </mat-expansion-panel-header>
+
+    <a matTooltip="Mileage : {{item.Mileage}}" *ngFor="let item of localVehicles"  (click)="NavigateTo(item.Vehicle_ID)">
+        <strong> {{item.Make}} {{item.Model}} {{item.Year}} {{item.Gear_Type}} </strong>&nbsp; &nbsp;|&nbsp; &nbsp;
+      </a>
+
+  </mat-expansion-panel>
+</div>

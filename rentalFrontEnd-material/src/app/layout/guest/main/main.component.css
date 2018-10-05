@@ -1,0 +1,32 @@
+.card {
+    max-width: 400px;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.inline {
+    display: inline;
+}
+
+.cardsCntnr {
+    display: inline;
+}
+
+div {
+    position: relative;
+}
+
+.cardsCntnr:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.two {
+    height: -35px;
+}
+
+.one, .two, .three {
+    float: left;
+    margin-left: 5%;
+}

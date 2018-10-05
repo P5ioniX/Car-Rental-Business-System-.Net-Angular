@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+
+  .card 
+  {
+  max-width: 300px;
+  }
+  
+  .cntnr
+  {
+  margin-top: 5%;
+  }
+  
+  .cntnr .card 
+  {      
+   margin: 0 auto;
+   width:50%;
+  }
+  

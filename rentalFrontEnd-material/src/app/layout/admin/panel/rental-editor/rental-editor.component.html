@@ -1,0 +1,169 @@
+<br>
+
+  <mat-form-field>
+    <input #usrID matInput [(ngModel)]="userId" placeholder="User ID">
+  </mat-form-field>
+  <button mat-raised-button color="primary" (click)="getUserRentals(usrID.value)">Find</button>
+
+
+
+
+
+<div *ngIf="bookedRentals?.length > 0">
+  <mat-card>
+      <mat-card-header>
+        <mat-card-title>Booked</mat-card-title>
+        <mat-card-subtitle>Rentals</mat-card-subtitle>
+      </mat-card-header>
+      <mat-divider></mat-divider>
+      <br>
+      <mat-card-content>
+          <mat-accordion *ngFor="let booked of bookedRentals">
+
+              <mat-expansion-panel>
+                <mat-expansion-panel-header>
+                  <mat-panel-title>
+                      Vehicle Number
+                  </mat-panel-title>
+                  <mat-panel-description>
+                    {{booked.Vehicle_ID}}
+                  </mat-panel-description>
+                </mat-expansion-panel-header>
+            
+                Intended For Pickup On : <strong>{{booked.Start_Date | date:'fullDate'}} </strong> <br>
+                Intended For Return On : <strong>{{booked.Return_Date | date:'fullDate'}} </strong><br><br>
+                <button mat-raised-button (click)="cancelRental(booked.Vehicle_ID)" color="primary">Cancel</button> &nbsp;
+
+              </mat-expansion-panel>
+            </mat-accordion>
+      </mat-card-content>
+      <mat-card-actions>
+      </mat-card-actions>
+    </mat-card>
+</div>
+
+<div *ngIf="openRentals?.length > 0">
+  <mat-card>
+      <mat-card-header>
+        <mat-card-title>Not Yet Returned</mat-card-title>
+        <mat-card-subtitle>Rentals</mat-card-subtitle>
+      </mat-card-header>
+      <mat-divider></mat-divider>
+      <br>
+      <mat-card-content>
+          <mat-accordion *ngFor="let open of openRentals">
+
+              <mat-expansion-panel>
+                <mat-expansion-panel-header>
+                  <mat-panel-title>
+                      Vehicle Number
+                  </mat-panel-title>
+                  <mat-panel-description>
+                    {{open.Vehicle_ID}}
+                  </mat-panel-description>
+                </mat-expansion-panel-header>
+            
+                Picked Up On : <strong>{{open.Start_Date | date:'fullDate'}} </strong> <br>
+                Intended For Return On : <strong>{{open.Return_Date | date:'fullDate'}} </strong> <br>
+                Current Rental Price : <strong>{{open.Total_Price | currency:'ILS'}}</strong><br><br>
+
+                <button mat-raised-button *ngIf="newMilesFormValue.value" (click)="returnRental(open.Vehicle_ID,newMiles)" color="primary">Return</button>&nbsp;
+                <button mat-raised-button *ngIf="!newMilesFormValue.value" (click)="returnRental(open.Vehicle_ID,newMiles)" color="primary" disabled>Return</button>&nbsp;
+
+                <mat-form-field>
+                  <input matInput placeholder="Mileage" #newMilesFormValue [(ngModel)]="newMiles" required><span matSuffix>Km &nbsp;</span>
+                </mat-form-field>
+
+
+              </mat-expansion-panel>
+            </mat-accordion>
+      </mat-card-content>
+      <mat-card-actions>
+      </mat-card-actions>
+    </mat-card>
+</div>
+
+<div *ngIf="closedRentals?.length > 0">
+  <mat-card>
+      <mat-card-header>
+        <mat-card-title>Returned</mat-card-title>
+        <mat-card-subtitle>Rentals</mat-card-subtitle>
+      </mat-card-header>
+      <mat-divider></mat-divider>
+      <br>
+      <mat-card-content>
+          <mat-accordion *ngFor="let closed of closedRentals">
+
+              <mat-expansion-panel>
+                <mat-expansion-panel-header>
+                  <mat-panel-title>
+                      Vehicle Number
+                  </mat-panel-title>
+                  <mat-panel-description>
+                    {{closed.Vehicle_ID}}
+                  </mat-panel-description>
+                </mat-expansion-panel-header>
+            
+                Picked Up On : <strong>{{closed.Start_Date | date:'fullDate'}} </strong> <br>
+                Was Schedualed For Return On : <strong>{{closed.Return_Date | date:'fullDate'}} </strong> <br>
+                Returned On : <strong>{{closed.Returned_Date | date:'fullDate'}}</strong><br>
+                Charged Ammount : <strong>{{closed.Total_Price | currency:'ILS'}}</strong><br><br>
+                <button mat-raised-button (click)="deleteRental(closed.Rental_ID)" color="primary">Delete</button>
+
+
+              </mat-expansion-panel>
+
+              <!--
+                Rental_ID
+                Return_Date
+                Returned_Date
+                Start_Date
+                Total_Price
+                User_ID
+                Vehicle_ID
+              -->
+            </mat-accordion>
+      </mat-card-content>
+      <mat-card-actions>
+      </mat-card-actions>
+    </mat-card>
+</div>
+
+<div *ngIf="canceledRentals?.length > 0">
+  <mat-card>
+      <mat-card-header>
+        <mat-card-title>Canceled</mat-card-title>
+        <mat-card-subtitle>Rentals</mat-card-subtitle>
+      </mat-card-header>
+      <mat-divider></mat-divider>
+      <br>
+      <mat-card-content>
+
+
+          <mat-accordion *ngFor="let Canceled of canceledRentals">
+
+              <mat-expansion-panel>
+                <mat-expansion-panel-header>
+                  <mat-panel-title>
+                      Vehicle Number
+                  </mat-panel-title>
+                  <mat-panel-description>
+                    {{Canceled.Vehicle_ID}}
+                  </mat-panel-description>
+                </mat-expansion-panel-header>
+            
+                Was Intended For Pickup On : <strong>{{Canceled.Start_Date | date:'fullDate'}} </strong> <br>
+                Was Intended For Return On : <strong>{{Canceled.Return_Date | date:'fullDate'}} </strong> <br>
+                Canceled On : <strong>{{Canceled.Returned_Date | date:'fullDate'}}</strong><br><br>
+                <button mat-raised-button (click)="deleteRental(Canceled.Rental_ID)" color="primary">Delete</button>
+
+
+              </mat-expansion-panel>
+            </mat-accordion>
+
+
+      </mat-card-content>
+      <mat-card-actions>
+      </mat-card-actions>
+    </mat-card>
+</div>

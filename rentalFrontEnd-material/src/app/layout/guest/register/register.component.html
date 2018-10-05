@@ -1,0 +1,83 @@
+<div class="cntnr">
+  <form #RegForm="ngForm" (ngSubmit)="OnSubmit(RegForm)">
+    <mat-card class="card">
+
+      <mat-card-header>
+        <mat-card-title>
+          <h2>Register</h2>
+        </mat-card-title>
+      </mat-card-header>
+      <hr>
+      <mat-card-content>
+        <mat-grid-list cols="2" rowHeight="75px">
+
+          <mat-grid-tile>
+            <mat-form-field>
+              <input matInput placeholder="Full Name" name="fullName" #fullName="ngModel" [(ngModel)]="registerUser.fullName" required>
+            </mat-form-field>
+            <br>
+          </mat-grid-tile>
+
+          <mat-grid-tile>
+            <mat-form-field>
+              <input matInput placeholder="ID Number" name="Id" #ID="ngModel" [(ngModel)]="registerUser.ID" required>
+            </mat-form-field>
+            <br>
+          </mat-grid-tile>
+
+          <mat-grid-tile>
+            <mat-form-field>
+              <input matInput placeholder="User Name" name="UserName" #UserName="ngModel" [(ngModel)]="registerUser.UserName" required>
+            </mat-form-field>
+            <br>
+          </mat-grid-tile>
+
+          <mat-grid-tile>
+              <mat-form-field>
+                  <input matInput placeholder="Enter your E-Mail" name="eMail" #eMail="ngModel" [(ngModel)]="registerUser.eMail" required>
+                  <mat-error *ngIf="eMail.invalid">{{getMailError()}}</mat-error>
+                </mat-form-field>
+            <br>
+          </mat-grid-tile>
+
+
+
+
+          <mat-grid-tile>
+            <mat-form-field>
+              <input matInput [matDatepicker]="picker" placeholder="Date Of Birth" name="dateOfBirth" #dateOfBirth="ngModel" [(ngModel)]="registerUser.dateOfBirth" required>
+              <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+              <mat-datepicker #picker startView="year" [startAt]="startDate"></mat-datepicker>
+            </mat-form-field>
+            <br>
+          </mat-grid-tile>
+
+          <mat-grid-tile>
+            <mat-form-field>
+              <input matInput placeholder="Enter Your Password" [type]="hide ? 'password' : 'text'" name="passWord" #passWord="ngModel"
+                [(ngModel)]="registerUser.passWord" required>
+              <mat-icon matSuffix (click)="hide = !hide">{{hide ? 'visibility' : 'visibility_off'}}</mat-icon>
+            </mat-form-field>
+            <br>
+          </mat-grid-tile>
+
+          <mat-grid-tile colspan="2" rowspan="1">
+
+              <mat-radio-group  name="sex" #sex="ngModel" [(ngModel)]="registerUser.sex">
+                <mat-radio-button value="Male">Male</mat-radio-button>
+                <mat-radio-button value="Female">Female</mat-radio-button>
+              </mat-radio-group>
+
+            <br>
+          </mat-grid-tile>
+
+        </mat-grid-list>
+      </mat-card-content>
+      <hr>
+      <mat-card-actions class="registerBtn">
+        <button mat-raised-button  type="submit" value="Login">Register</button><span class="frmErr">{{formHasErrors}}</span>
+      </mat-card-actions>
+      <hr> 
+    </mat-card>
+  </form>
+</div>

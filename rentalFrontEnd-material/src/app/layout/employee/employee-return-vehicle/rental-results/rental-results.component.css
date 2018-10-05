@@ -1,0 +1,21 @@
+.cardCntnr
+{
+    width:45%;
+    margin: 0 auto 0 auto;
+}
+.data{
+    display: inline-block;
+}
+.data:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.dataBtn{
+    margin-left: 50px;
+    margin-top: 7%;
+}
+
+.dataLits , .dataBtn{
+    float: left;
+}

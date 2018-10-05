@@ -1,0 +1,71 @@
+
+    <div *ngIf="allRentals?.length>0" class="rentalsLst">
+      <mat-card>
+        <mat-card-header>
+          <mat-card-title-group>
+            <mat-card-title><h2>Active</h2></mat-card-title>
+            <mat-card-title><h4>Rentals</h4></mat-card-title>
+          </mat-card-title-group>
+        </mat-card-header>
+        <mat-divider></mat-divider>
+        
+        <mat-card-content class="matCardContent">
+          <div *ngFor="let rental of allRentals">
+              <mat-list role="list">
+                  <mat-list-item role="listitem">Start Date : {{rental.Start_Date | date:'fullDate'}}</mat-list-item>
+                  <mat-list-item role="listitem">End Date : {{rental.Return_Date | date:'fullDate'}}</mat-list-item>
+                  <mat-list-item role="listitem">Car Number : {{rental.Vehicle_ID}}</mat-list-item>
+                </mat-list>
+                <mat-divider></mat-divider>
+          </div>
+        </mat-card-content>
+      </mat-card>
+    </div>
+
+    <div *ngIf="returnedRentals?.length>0;" class="rentalsLst">
+        <mat-card class="materialCard">
+          <mat-card-header>
+            <mat-card-title-group>
+              <mat-card-title><h2>Previous</h2></mat-card-title>
+              <mat-card-subtitle><h4>Rentals</h4></mat-card-subtitle>
+            </mat-card-title-group>
+          </mat-card-header>
+          <mat-divider></mat-divider>
+          
+          <mat-card-content class="matCardContent">
+            <div *ngFor="let rental of returnedRentals">
+                <mat-list role="list">
+                    <mat-list-item role="listitem">Start Date : {{rental.Start_Date | date:'fullDate'}}</mat-list-item>
+                    <mat-list-item role="listitem">End Date : {{rental.Return_Date | date:'fullDate'}}</mat-list-item>
+                    <mat-list-item role="listitem">Returned Date : {{rental.Returned_Date | date:'fullDate'}}</mat-list-item>
+                    <mat-list-item role="listitem">Car Number : {{rental.Vehicle_ID}}</mat-list-item>
+                  </mat-list>
+                  <mat-divider></mat-divider>
+
+            </div>
+          </mat-card-content>
+        </mat-card>
+        <br class="clearFix" />
+      </div>
+
+      <div >
+          <mat-card *ngIf="noneRented">
+            <mat-card-header>
+            <mat-card-title><h1>You haven't rented a vehicle yet</h1></mat-card-title>
+          </mat-card-header>
+              <mat-divider></mat-divider>
+              <br>
+              <mat-card-content>
+              <p>Details about your rentals will show up once you rent a vehicle</p>
+            </mat-card-content>
+          </mat-card>
+
+      </div>
+    
+<!--     
+    [User_ID]       INT  NOT NULL,
+    [Vehicle_ID]    INT  NOT NULL,
+    [Start_Date]    DATE NOT NULL,
+    [Return_Date]   DATE NOT NULL,
+    [Returned_Date] DATE NULL, 
+-->

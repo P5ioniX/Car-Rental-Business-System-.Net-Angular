@@ -1,0 +1,73 @@
+<search-bar [vehicleMakes]="findAllMakes()" [vehicleGearTypes]="findGearTypes()" [VehicleModels]="_vehiclesArray" (onValueChange)="rerenderTable($event)"></search-bar>
+
+<table *ngIf="_vehiclesArray" class="flat-table">
+  <tr>
+    <thead>
+      <tr>
+        <th>Make</th>
+        <th>Model</th>
+        <th>Year</th>
+        <th>Gear Type</th>
+        <th>Mileage</th>
+        <th>Vehicle Number</th>
+        <th>Daily Rate</th>
+        <th>Penalty Rate</th>
+        <th>Available</th>
+        <th> </th>
+      </tr>
+    </thead>
+    <tbody>
+      <ng-container *ngIf="_vehicleSearchArray===undefined; else elseTemplate">
+        <tr *ngFor="let car of _vehiclesArray" class="tabeRow">
+          <td>
+            <strong> {{car.Make}} </strong>
+          </td>
+          <td>{{car.Model}}</td>
+          <td>{{car.Year}}</td>
+          <td>{{car.Gear_Type}}</td>
+          <td>{{car.Mileage}}</td>
+          <td>{{car.Vehicle_ID}}</td>
+          <td>{{car.Daily_Rate | currency:'ILS'}}</td>
+          <td>{{car.Penalty_Rate | currency:'ILS'}}</td>
+          <td *ngIf="car.Available">
+            <i class="material-icons">check</i>
+          </td>
+          <td *ngIf="!car.Available">
+            <i class="material-icons">close</i>
+          </td>
+          <td>
+            <button mat-mini-fab color="primary" [routerLink]="['../vehicle',car.Vehicle_ID]">
+              <i class="material-icons">description</i>
+            </button>
+          </td>
+        </tr>
+      </ng-container>
+      
+      <ng-template #elseTemplate>
+        <tr *ngFor="let car of _vehicleSearchArray">
+          <td>
+            <strong> {{car.Make}} </strong>
+          </td>
+          <td>{{car.Model}}</td>
+          <td>{{car.Year}}</td>
+          <td>{{car.Gear_Type}}</td>
+          <td>{{car.Mileage}}</td>
+          <td>{{car.Vehicle_ID}}</td>
+          <td>{{car.Daily_Rate | currency:'ILS'}}</td>
+          <td>{{car.Penalty_Rate | currency:'ILS'}}</td>
+          <td *ngIf="car.Available">
+            <i class="material-icons">check</i>
+          </td>
+          <td *ngIf="!car.Available">
+            <i class="material-icons">close</i>
+          </td>
+          <td>
+            <button mat-mini-fab color="primary" [routerLink]="['../vehicle',car.Vehicle_ID]">
+              <i class="material-icons">description</i>
+            </button>
+          </td>
+        </tr>
+      </ng-template>
+
+    </tbody>
+</table>

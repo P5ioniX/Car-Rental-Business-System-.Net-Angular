@@ -1,0 +1,22 @@
+<form class="rtrnform">
+<mat-card class="card">
+    <mat-card-header>
+      <mat-card-title>Return</mat-card-title>
+      <mat-card-subtitle>Vehicle</mat-card-subtitle>
+    </mat-card-header>
+    <hr>
+    <mat-card-content>
+
+          <mat-form-field>
+            <input matInput #number placeholder="Vehicle Number" required>
+          </mat-form-field>
+
+    </mat-card-content>
+    <mat-divider></mat-divider>
+    <mat-card-actions>
+        <button mat-raised-button (click)=" getSelectedVehicleRental(number.value)" color="primary">Find</button>
+    </mat-card-actions>
+  </mat-card>
+</form>
+
+<rental-results *ngIf="resultRental" [rental]="resultRental"></rental-results>

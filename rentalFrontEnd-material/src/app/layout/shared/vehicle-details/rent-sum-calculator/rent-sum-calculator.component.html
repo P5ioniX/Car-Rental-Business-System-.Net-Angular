@@ -1,0 +1,35 @@
+
+    <mat-card class="materialCard">
+      <mat-card-header>
+          <mat-card-title-group>
+          <mat-card-title>Rental Sum</mat-card-title>
+          <mat-card-subtitle>Calculator</mat-card-subtitle>
+          </mat-card-title-group>
+      </mat-card-header>
+      <mat-divider></mat-divider>
+      <mat-card-content class="matCardContent">
+          <form #calculatorForm="ngForm" (ngSubmit)="calculatePrice(startPicker,endPicker)"> 
+
+        <mat-form-field>
+          <input matInput [matDatepicker]="startPicker" #start="ngModel" [(ngModel)]="startDate" placeholder="Start" name="Start" required>
+          <mat-datepicker-toggle matSuffix [for]="startPicker"></mat-datepicker-toggle>
+          <mat-datepicker #startPicker></mat-datepicker>
+        </mat-form-field>
+  
+        <mat-form-field>
+          <input matInput [matDatepicker]="endPicker" #end="ngModel" [(ngModel)]="endDate" placeholder="End" name="End" required>
+          <mat-datepicker-toggle matSuffix [for]="endPicker"></mat-datepicker-toggle>
+          <mat-datepicker #endPicker></mat-datepicker>
+        </mat-form-field>
+        <button type="submit" name="btn" mat-raised-button color="primary">Calculate</button>
+        <span *ngIf="errorMsg">{{errorMsg}}</span>
+      </form>
+      </mat-card-content>
+      <mat-divider></mat-divider>
+      <mat-card-footer class="cardFtr">
+      <br>
+          <mat-card-subtitle class="ftrText">Estimated Total : {{selectedRentalPrice}}</mat-card-subtitle>
+          
+      </mat-card-footer>
+    </mat-card>
+    

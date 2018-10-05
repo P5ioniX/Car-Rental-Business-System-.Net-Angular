@@ -1,0 +1,10 @@
+<guest-navbar *ngIf="showBasicNavBar"></guest-navbar>
+<customer-navbar *ngIf="userNavBar"></customer-navbar>
+<employee-navbar *ngIf="employeeNavBar"></employee-navbar>
+<admin-navbar *ngIf="adminNavBar"></admin-navbar>
+
+<last-viewed-vehicles *ngIf="!employeeNavBar && !adminNavBar"></last-viewed-vehicles> 
+
+<router-outlet></router-outlet>
+
+

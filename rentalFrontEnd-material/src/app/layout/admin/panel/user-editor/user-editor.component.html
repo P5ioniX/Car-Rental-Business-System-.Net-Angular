@@ -1,0 +1,126 @@
+<br>
+<form class="searchUserForm">
+  <mat-form-field>
+    <input #usrID matInput placeholder="User ID" value="12121212">
+  </mat-form-field>
+  <button mat-raised-button color="primary" (click)="getUserForEdit(usrID.value)">Find</button>
+</form>
+
+<!-- 
+  <div *ngIf="user!=null">
+  {{user.Id}}
+  {{user.UserName}}
+  {{user.fullName}}
+  {{user.dateOfBirth}}
+  {{user.eMail}}
+  {{user.sex}}
+  </div> 
+-->
+
+<div *ngIf="updateUser!=null">
+
+  <form #updateForm="ngForm">
+
+  <mat-accordion>
+
+    <mat-expansion-panel>
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          User Name
+        </mat-panel-title>
+        <mat-panel-description>
+          {{username.value}}
+        </mat-panel-description>
+      </mat-expansion-panel-header>
+      <mat-form-field>
+        <input matInput ngModel={{updateUser.UserName}} #username="ngModel" name="username" placeholder="User Name">
+      </mat-form-field>
+    </mat-expansion-panel>
+
+    <mat-expansion-panel>
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Full Name
+        </mat-panel-title>
+        <mat-panel-description>
+          {{fullName.value}}
+        </mat-panel-description>
+      </mat-expansion-panel-header>
+      <mat-form-field>
+        <input matInput ngModel={{updateUser.fullName}} #fullName="ngModel" name="fullName" placeholder="Full Name">
+      </mat-form-field>
+    </mat-expansion-panel>
+
+    <mat-expansion-panel>
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Date Of Birth
+        </mat-panel-title>
+        <mat-panel-description>
+          {{updateUser.dateOfBirth | date:'fullDate'}}
+        </mat-panel-description>
+      </mat-expansion-panel-header>
+
+      <mat-form-field>
+        <input matInput name="picker1"  [matDatepicker]="picker1" placeholder="Date Of Birth" [value]="updateUser.dateOfBirth" (dateChange)="dateEventValueChange($event)" disabled>
+        <mat-datepicker-toggle matSuffix [for]="picker1"></mat-datepicker-toggle>
+        <mat-datepicker #picker1 disabled="false"></mat-datepicker>
+      </mat-form-field>
+
+    </mat-expansion-panel>
+
+    <mat-expansion-panel>
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Gender
+        </mat-panel-title>
+        <mat-panel-description>
+          {{sex.value}}
+        </mat-panel-description>
+      </mat-expansion-panel-header>
+
+      <mat-form-field>
+        <mat-select ngModel={{updateUser.sex}} #sex="ngModel" name="sex">
+          <mat-option value="Male">Male</mat-option>
+          <mat-option value="Female">Female</mat-option>
+        </mat-select>
+      </mat-form-field>
+
+    </mat-expansion-panel>
+
+    <mat-expansion-panel>
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          E-Mail Address
+        </mat-panel-title>
+        <mat-panel-description>
+          {{eMail.value}}
+        </mat-panel-description>
+      </mat-expansion-panel-header>
+      <mat-form-field>
+        <input matInput ngModel={{updateUser.eMail}} #eMail="ngModel" name="eMail" placeholder="E-Mail Address" required>
+      </mat-form-field>
+    </mat-expansion-panel>
+
+  </mat-accordion>
+  <br>
+  <div class="button-row">
+    <button mat-raised-button (click)="patchUpdatedUser(updateForm,usrID.value)" color="primary">Update</button>
+    <button mat-raised-button (click)="deleteUser(usrID.value)" color="primary">Delete</button> <!--Take Care Of Deleting A User -->
+  </div>
+</form>
+</div>
+
+
+<!-- 
+Id:12345
+LoggedInTime:null
+Role:"System.Collections.Generic.List`1[Microsoft.AspNet.Identity.EntityFramework.IdentityUserRole]"
+UserName:"JaneDoe"
+dateOfBirth:"2000-07-19T21:00:00"
+eMail:"jane@doe.com"
+fullName:"JaneDoe"
+passWord:null
+profilePicture:null
+sex:"Female" 
+-->

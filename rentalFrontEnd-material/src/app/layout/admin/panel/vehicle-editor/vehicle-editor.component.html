@@ -1,0 +1,225 @@
+<mat-tab-group (click)="setSelected=true">
+  <mat-tab label="Vehicle Types">
+    <br>
+
+    <div *ngIf="setSelected">
+    <form #makeFrm="ngForm" class="makeForm">
+      <mat-form-field class="makeDrpDwn">
+        <mat-select #selectedMake placeholder="Make" name="makeValue" [(ngModel)]="chosenMake" (change)="getValuesForModelsBox($event); GetAllMakeVehicleTypes($event);">
+          <mat-option>None</mat-option>
+          <mat-option *ngFor="let make of makes" [value]="make">
+            {{ make }}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+
+
+
+      <form class="addMakeform">
+        <button mat-raised-button color="primary" *ngIf="chosenMake" (click)="TryDeleteMake(selectedMake.value); makeFrm.reset();">Delete Make</button>
+        <mat-form-field *ngIf="chosenMake">
+          <input matInput placeholder="New Make" required disabled>
+        </mat-form-field>
+
+        <button mat-raised-button color="primary" disabled *ngIf="chosenMake">Add Make</button>
+
+
+        <mat-form-field *ngIf="!chosenMake">
+          <input matInput [(ngModel)]="makeString" name="make" placeholder="New Make" required>
+        </mat-form-field>
+
+        <button mat-raised-button type="reset" color="primary" *ngIf="!chosenMake" (click)="AddMake(makeString); nullifyValues(); makeFrm.reset();">Add Make</button>
+
+      </form>
+    </form>
+
+
+    <form class="modelForm" *ngIf="models || chosenMake">
+      <mat-divider></mat-divider>
+      <br>
+      <mat-form-field class="addModelDrpDwn">
+        <mat-select #selectedModel placeholder="Model" name="modelValue" [(ngModel)]="chosenModel">
+          <mat-option>None</mat-option>
+          <mat-option *ngFor="let model of models" [value]="model">
+            {{ model }}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+
+
+      <form #modelFrm class="addModelform" *ngIf="selectedMake.value">
+        <button type="reset" *ngIf="chosenModel" mat-raised-button color="primary" (click)="TryDeleteModel(chosenMake,selectedModel.value); modelFrm.reset();">Delete Model</button>
+        <mat-form-field *ngIf="chosenModel">
+          <input matInput placeholder="New Model" disabled>
+        </mat-form-field>
+
+        <mat-form-field *ngIf="!chosenModel">
+          <input matInput [(ngModel)]="modelString" name="model" placeholder="New Model" required>
+        </mat-form-field>
+
+
+        <button *ngIf="chosenModel" mat-raised-button color="primary" disabled>Add Model</button>
+        <button type="reset" *ngIf="!chosenModel" mat-raised-button color="primary" (click)="AddModel(chosenMake,modelString); modelFrm.reset();">Add Model</button>
+
+      </form>
+      <mat-divider></mat-divider>
+    </form>
+
+    <div *ngIf="chosenModel && chosenMake">
+      <mat-divider></mat-divider>
+      <br>
+      <form class="vehicleType" #typeForm="ngForm" (ngSubmit)="AddType(typeForm,selectedMake.value,chosenModel)">
+        <mat-form-field>
+          <input matInput placeholder="Year" name="year" ngModel required #year="ngModel">
+        </mat-form-field>
+
+        <mat-form-field>
+          <mat-select placeholder="Gear Type" name="gear" ngModel required #gear="ngModel">
+            <mat-option>None</mat-option>
+            <mat-option value="Automatic">Automatic</mat-option>
+            <mat-option value="Manual">Manual</mat-option>
+          </mat-select>
+        </mat-form-field>
+
+        <mat-form-field>
+          <input matInput placeholder="Daily Rate" type="number" name="dailyrate" ngModel required #dailyrate="ngModel">
+          <span matPrefix>₪&nbsp;</span>
+        </mat-form-field>
+
+        <mat-form-field>
+          <input matInput placeholder="Penalty Rate" type="number" name="penaltyrate" ngModel required #penaltyrate="ngModel">
+          <span matPrefix>₪&nbsp;</span>
+        </mat-form-field>
+
+        <button mat-raised-button type="submit" color="primary">Add Vehicle Type</button>
+      </form>
+      <mat-divider></mat-divider>
+    </div>
+
+    <!--makeVehicleTypes-->
+
+    <br>
+
+    <mat-list *ngIf="makeVehicleTypes">
+      <h4>All Available {{selectedMake.value}} Types</h4>
+      <mat-divider></mat-divider>
+      <mat-list-item *ngFor="let type of makeVehicleTypes"> 
+        <h4> {{ type.Model }} </h4> &nbsp; &nbsp; | 
+        Gear : {{ type.Gear_Type }} | 
+        Year : {{ type.Year }} | 
+        Daily Rate : {{ type.Daily_Rate | currency:'ILS'}} |  
+        Penalty Rate : {{ type.Penalty_Rate | currency:'ILS'}} &nbsp;
+        <button mat-raised-button (click)="deleteType(type)" color="primary">Delete Type</button>
+        &nbsp;
+        <button mat-raised-button (click)="openDialog(type)" color="primary">Add Vehicle</button>
+        <mat-divider></mat-divider>
+      </mat-list-item>
+    </mat-list>
+
+  </div>
+
+  </mat-tab>
+  <mat-tab label="Edit Vehicles">
+    <br>
+    <form class="searchVehicleForm">
+      <mat-form-field>
+        <input #vehicleID matInput placeholder="Vehicle ID" value="19516851">
+      </mat-form-field>
+      <button mat-raised-button color="primary" (click)="getVehicleForEdit(vehicleID.value)">Find</button>
+    </form>
+
+    <div *ngIf="updateVehicle!=null">
+
+      <form #updateForm="ngForm">
+
+        <mat-accordion>
+
+          <mat-expansion-panel>
+            <mat-expansion-panel-header>
+              <mat-panel-title>
+                {{updateVehicle.Make}}
+              </mat-panel-title>
+              <mat-panel-description>
+                {{updateVehicle.Vehicle_ID}}
+              </mat-panel-description>
+            </mat-expansion-panel-header>
+
+            <div>
+              <p>
+                <strong> Model : </strong> {{updateVehicle.Model}} 
+              </p>
+            </div>
+
+            <div>
+              <p>
+                <strong> Year : </strong> {{updateVehicle.Year}} 
+              </p>
+            </div>
+
+            <div>
+              <p>
+                <strong> Gear Type : </strong> {{updateVehicle.Gear_Type}} 
+              </p>
+            </div>
+
+          </mat-expansion-panel>
+
+
+          <mat-expansion-panel>
+
+
+            <mat-expansion-panel-header>
+              <mat-panel-title>
+                Mileage
+              </mat-panel-title>
+              <mat-panel-description>
+                {{mileage.value}} km
+              </mat-panel-description>
+            </mat-expansion-panel-header>
+
+
+            <mat-form-field>
+              <input matInput ngModel={{updateVehicle.Mileage}} #mileage="ngModel" name="mileage" placeholder="Mileage">
+            </mat-form-field>
+
+          </mat-expansion-panel>
+
+          <mat-expansion-panel>
+
+            <!-- State -->
+              <mat-expansion-panel-header *ngIf="vehicle">
+                <mat-panel-title>
+                  State
+                </mat-panel-title>
+                <mat-panel-description>
+                  Open To Change
+                </mat-panel-description>
+              </mat-expansion-panel-header>
+  
+              <mat-checkbox color="primary" labelPosition="before" ngModel={{vehicle.m_Item2.Available}} #available="ngModel" name="available">Available : </mat-checkbox> &nbsp;
+              <mat-checkbox color="primary" labelPosition="before" ngModel={{vehicle.m_Item2.Rentable}} #rentable="ngModel" name="rentable">Rentable : </mat-checkbox>
+  
+            </mat-expansion-panel>
+
+        </mat-accordion>
+        <br>
+        <div class="button-row">
+          <button mat-raised-button (click)="patchUpdatedVehicle(updateForm,updateVehicle.Vehicle_ID,vehicle.m_Item2)" color="primary">Update</button>
+          <button mat-raised-button color="primary">Delete</button>
+          <!--Take Care Of Deleting A Vehicle -->
+        </div>
+      </form>
+    </div>
+  </mat-tab>
+</mat-tab-group>
+
+<!--
+    Make         : string ;
+    Model        : string ;
+    Daily_Rate   : number ;
+    Penalty_Rate : number ;
+    Year         : number ;
+    Gear_Type    : string ;
+    Vehicle_ID   : number ;
+    Mileage      : number ;
+ -->

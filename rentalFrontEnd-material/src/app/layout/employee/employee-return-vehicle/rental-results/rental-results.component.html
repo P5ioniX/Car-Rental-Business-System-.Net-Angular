@@ -1,0 +1,22 @@
+<div *ngIf="rental" class="cardCntnr">
+<mat-card>
+  <h2>Rental Details</h2>
+  <hr>
+<div class="data">
+  <div class="dataLits">
+    <ul>  
+      <li><strong>Start Date : </strong> {{rental.Start_Date | date:'fullDate'}}</li>
+      <li><strong>End Date :</strong> {{rental.Return_Date | date:'fullDate'}}</li>
+      <li><strong>Car Number :</strong> {{rental.Vehicle_ID}}</li>
+      <li><strong>Sum Total :</strong> {{rental.Total_Price | currency:'ILS'}}</li>
+    </ul>
+  <mat-form-field>
+      <input matInput placeholder="Mileage" #newMilesFormValue required><span matSuffix>Km &nbsp;</span>
+    </mat-form-field>
+</div>
+<div class="dataBtn">
+  <button mat-fab color="primary" (click)="returnRental(rental,newMilesFormValue.value)">Return</button>
+</div>
+</div>
+</mat-card>
+</div>

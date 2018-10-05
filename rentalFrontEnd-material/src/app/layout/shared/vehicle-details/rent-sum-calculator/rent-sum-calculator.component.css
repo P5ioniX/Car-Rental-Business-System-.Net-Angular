@@ -1,0 +1,26 @@
+.materialCard{
+    width: 200px;
+    margin: auto;
+    margin-top: 70px;
+    margin-left: 50px;
+    position: relative;
+    
+}
+
+.cardFtr{
+    height: 50px;
+    text-align: left;
+    margin-top: 5px;
+}
+
+.ftrText{
+    margin-left: 15%;
+}
+
+.matCardContent{
+    margin-top: 10px;
+}
+
+button{
+    margin-left:25%;
+}

@@ -1,0 +1,64 @@
+<hr>
+  <div class="cntnr">
+  <form #search="ngForm" (submit)="onFieldsChanged(search)" class="form-inline">
+    <div>
+      <mat-form-field>
+          <mat-select placeholder="Gear Type" #GearType="ngModel" ngModel name="GearType">
+            <mat-option>None</mat-option>
+            <mat-option *ngFor="let gear of vehicleGearTypes" [value]="gear">{{gear}}</mat-option>
+          </mat-select>
+        </mat-form-field>
+
+
+
+      <mat-form-field>
+          <mat-select placeholder="Year" #Year="ngModel" ngModel name="Year">
+            <mat-option>None</mat-option>
+            <mat-option *ngFor="let Year of yearlist" [value]="Year">{{Year}}</mat-option>
+          </mat-select>
+        </mat-form-field>
+
+
+
+    <mat-form-field>
+      <mat-select placeholder="Make" #Make="ngModel" ngModel name="Make" (change)="rePopulateModels($event)" [(value)]="selectedVehicleMakes">
+        <mat-option >None</mat-option>
+        <mat-option *ngFor="let make of vehicleMakes" [value]="make" >{{make}}</mat-option>
+      </mat-select>
+    </mat-form-field>
+
+
+
+    <mat-form-field>
+      <mat-select placeholder="Model" #Model="ngModel" ngModel name="Model" ([value])="selectedVehicleModels" >
+        <mat-option>None</mat-option>
+        <mat-option *ngFor="let model of vehicleModels" [value]="model" >{{model}}</mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field>
+        <input matInput placeholder="Find By Text" #text="ngModel" ngModel name="text" type="search">
+    </mat-form-field>
+
+    <mat-form-field>
+      <input matInput ngModel name="start" [matDatepicker]="picker1" placeholder="Start Date">
+      <mat-datepicker-toggle matSuffix [for]="picker1"></mat-datepicker-toggle>
+      <mat-datepicker #picker1 startView="year" [startAt]="startDate"></mat-datepicker>
+  </mat-form-field>
+
+
+
+  <mat-form-field>
+      <input matInput ngModel name="end" [matDatepicker]="picker2" placeholder="End Date">
+      <mat-datepicker-toggle matSuffix [for]="picker2"></mat-datepicker-toggle>
+      <mat-datepicker #picker2 startView="year" [startAt]="endDate"></mat-datepicker>
+  </mat-form-field>
+
+    <button type="submit" mat-raised-button color="primary">Search</button>
+    <button type="button" mat-raised-button (click)="clearDates(search)" color="primary">Clear Dates</button>
+  </div>
+  </form>
+</div>
+<hr>
+
+

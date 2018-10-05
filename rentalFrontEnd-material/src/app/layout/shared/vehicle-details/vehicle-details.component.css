@@ -1,0 +1,17 @@
+
+.vehicleDtls{
+    width:250px;
+    height: 325px;
+    float: left;
+    margin:auto;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+.inlnBtstrpMtrl{
+    display:inline-flex;
+}
+
+button{
+    margin-left:25%;
+}

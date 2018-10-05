@@ -1,0 +1,39 @@
+<div class="inlnBtstrpMtrl">
+
+  <div *ngIf="vehicle" class="vehicleDtls">
+    <mat-card class="materialCard">
+      <mat-card-header>
+        <mat-card-title-group>
+          <mat-card-title>{{vehicle.Make}}</mat-card-title>
+          <mat-card-subtitle>{{vehicle.Model}}</mat-card-subtitle>
+        </mat-card-title-group>
+      </mat-card-header>
+      <mat-divider></mat-divider>
+      <br>
+      
+      <mat-card-content class="matCardContent">
+        <div>
+            <mat-list role="list">
+                <mat-list-item role="listitem">Daily Rate : {{vehicle.Daily_Rate}} ₪</mat-list-item>
+                <mat-list-item role="listitem">Penalty Rate : {{vehicle.Penalty_Rate}} ₪</mat-list-item>
+                <mat-list-item role="listitem">Year : {{vehicle.Year}}</mat-list-item>
+                <mat-list-item role="listitem">Gear Type : {{vehicle.Gear_Type}}</mat-list-item>
+                <mat-list-item role="listitem">Mileage : {{vehicle.Mileage}}</mat-list-item>
+              </mat-list>
+              <mat-divider></mat-divider>
+              <br>
+          <button mat-raised-button color="primary" [routerLink]="['../../CheckOut',vehicle.Vehicle_ID]" >Rent</button>
+        </div>
+      </mat-card-content>
+    </mat-card>
+
+  </div>
+
+
+
+  <rent-sum-calculator *ngIf="vehicle" [price]="vehicle.Daily_Rate"></rent-sum-calculator>
+
+</div>
+<br><br><br><br><br><br><br>
+<mat-divider></mat-divider>
+<br>

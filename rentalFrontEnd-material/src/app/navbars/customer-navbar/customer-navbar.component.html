@@ -1,0 +1,11 @@
+<mat-toolbar color="primary" class="toolbar">
+  <a aria-label="Back to the Home page" title="Home">
+    <mat-icon aria-hidden="true" routerLink="/">directions_car</mat-icon>
+  </a>
+  <div class="button-row">
+    <a class="customButton" routerLink="/customer_rentals" routerLinkActive="active">Rentals</a>
+    <a class="customButton" routerLink="/vehicles" routerLinkActive="active">Search</a>
+    <a class="customButton" (click)="LogOut()">LogOut</a> 
+  </div>
+</mat-toolbar>
+

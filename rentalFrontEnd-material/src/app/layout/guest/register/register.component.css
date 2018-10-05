@@ -1,0 +1,33 @@
+
+.card 
+{
+max-width: 100%;
+}
+
+.cntnr
+{
+margin-top: 5%;
+height: 30%;
+}
+
+.cntnr .card 
+{      
+ margin: 0 auto;
+ width:50%;
+}
+
+.mat-radio-button ~ .mat-radio-button 
+{
+    margin: 16px auto;
+}
+
+.frmErr{
+    color: tomato;
+    float: right;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+
+.registerBtn{
+    margin-left:2%;
+}
