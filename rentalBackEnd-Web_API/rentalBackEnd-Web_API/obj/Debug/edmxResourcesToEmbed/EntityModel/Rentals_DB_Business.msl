@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Rentals_DB_BusinessModelStoreContainer" CdmEntityContainer="Rentals_DB_BusinessEntities">
+    <EntitySetMapping Name="Vehicle_Makes">
+      <EntityTypeMapping TypeName="Rentals_DB_BusinessModel.Vehicle_Makes">
+        <MappingFragment StoreEntitySet="Vehicle_Makes">
+          <ScalarProperty Name="Make_Name" ColumnName="Make_Name" />
+          <ScalarProperty Name="Make_ID" ColumnName="Make_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vehicle_Models">
+      <EntityTypeMapping TypeName="Rentals_DB_BusinessModel.Vehicle_Models">
+        <MappingFragment StoreEntitySet="Vehicle_Models">
+          <ScalarProperty Name="Model_Name" ColumnName="Model_Name" />
+          <ScalarProperty Name="Make_ID" ColumnName="Make_ID" />
+          <ScalarProperty Name="Model_ID" ColumnName="Model_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Addresses">
+      <EntityTypeMapping TypeName="Rentals_DB_BusinessModel.Address">
+        <MappingFragment StoreEntitySet="Addresses">
+          <ScalarProperty Name="House_Number" ColumnName="House_Number" />
+          <ScalarProperty Name="Street" ColumnName="Street" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Coordinate_ID" ColumnName="Coordinate_ID" />
+          <ScalarProperty Name="Address_ID" ColumnName="Address_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Branches">
+      <EntityTypeMapping TypeName="Rentals_DB_BusinessModel.Branch">
+        <MappingFragment StoreEntitySet="Branches">
+          <ScalarProperty Name="Branch_Name" ColumnName="Branch_Name" />
+          <ScalarProperty Name="Address_ID" ColumnName="Address_ID" />
+          <ScalarProperty Name="Branch_ID" ColumnName="Branch_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Coordinates">
+      <EntityTypeMapping TypeName="Rentals_DB_BusinessModel.Coordinate">
+        <MappingFragment StoreEntitySet="Coordinates">
+          <ScalarProperty Name="Longtitude" ColumnName="Longtitude" />
+          <ScalarProperty Name="Latitude" ColumnName="Latitude" />
+          <ScalarProperty Name="Coordinate_ID" ColumnName="Coordinate_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rentals">
+      <EntityTypeMapping TypeName="Rentals_DB_BusinessModel.Rental">
+        <MappingFragment StoreEntitySet="Rentals">
+          <ScalarProperty Name="Returned_Date" ColumnName="Returned_Date" />
+          <ScalarProperty Name="Return_Date" ColumnName="Return_Date" />
+          <ScalarProperty Name="Start_Date" ColumnName="Start_Date" />
+          <ScalarProperty Name="Vehicle_ID" ColumnName="Vehicle_ID" />
+          <ScalarProperty Name="User_ID" ColumnName="User_ID" />
+          <ScalarProperty Name="Rental_ID" ColumnName="Rental_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vehicle_Types">
+      <EntityTypeMapping TypeName="Rentals_DB_BusinessModel.Vehicle_Types">
+        <MappingFragment StoreEntitySet="Vehicle_Types">
+          <ScalarProperty Name="Gear_Type" ColumnName="Gear_Type" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="Penalty_Rate" ColumnName="Penalty_Rate" />
+          <ScalarProperty Name="Daily_Rate" ColumnName="Daily_Rate" />
+          <ScalarProperty Name="Model_ID" ColumnName="Model_ID" />
+          <ScalarProperty Name="Make_ID" ColumnName="Make_ID" />
+          <ScalarProperty Name="Vehicle_Type_ID" ColumnName="Vehicle_Type_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vehicles">
+      <EntityTypeMapping TypeName="Rentals_DB_BusinessModel.Vehicle">
+        <MappingFragment StoreEntitySet="Vehicles">
+          <ScalarProperty Name="Available" ColumnName="Available" />
+          <ScalarProperty Name="Rentable" ColumnName="Rentable" />
+          <ScalarProperty Name="Picture" ColumnName="Picture" />
+          <ScalarProperty Name="Mileage" ColumnName="Mileage" />
+          <ScalarProperty Name="Vehicle_Type_ID" ColumnName="Vehicle_Type_ID" />
+          <ScalarProperty Name="Branch_ID" ColumnName="Branch_ID" />
+          <ScalarProperty Name="Vehicle_ID" ColumnName="Vehicle_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

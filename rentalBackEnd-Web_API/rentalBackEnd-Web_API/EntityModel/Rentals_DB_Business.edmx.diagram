@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="bc339ebd1ac1410bb0adee556bec79ce" Name="Diagram1">
+        <EntityTypeShape EntityType="Rentals_DB_BusinessModel.Vehicle_Makes" Width="1.5" PointX="0.75" PointY="5.875" />
+        <EntityTypeShape EntityType="Rentals_DB_BusinessModel.Vehicle_Models" Width="1.5" PointX="3" PointY="5.75" />
+        <AssociationConnector Association="Rentals_DB_BusinessModel.FK_Vehicle_Models_Vehicle_Makes" />
+        <EntityTypeShape EntityType="Rentals_DB_BusinessModel.Address" Width="1.5" PointX="3" PointY="1.125" />
+        <EntityTypeShape EntityType="Rentals_DB_BusinessModel.Branch" Width="1.5" PointX="5.25" PointY="1.375" />
+        <EntityTypeShape EntityType="Rentals_DB_BusinessModel.Coordinate" Width="1.5" PointX="0.75" PointY="1.5" />
+        <EntityTypeShape EntityType="Rentals_DB_BusinessModel.Rental" Width="1.5" PointX="9.75" PointY="1.125" />
+        <EntityTypeShape EntityType="Rentals_DB_BusinessModel.Vehicle_Types" Width="1.5" PointX="5.625" PointY="4.25" />
+        <EntityTypeShape EntityType="Rentals_DB_BusinessModel.Vehicle" Width="1.5" PointX="8.125" PointY="4.5" />
+        <AssociationConnector Association="Rentals_DB_BusinessModel.FK_Addresses_Coordinates" />
+        <AssociationConnector Association="Rentals_DB_BusinessModel.FK_Branches_Addresses" />
+        <AssociationConnector Association="Rentals_DB_BusinessModel.FK_Vehicles_Branches" />
+        <AssociationConnector Association="Rentals_DB_BusinessModel.FK_Rentals_Vehicles" />
+        <AssociationConnector Association="Rentals_DB_BusinessModel.FK_Vehicle_Types_Vehicle_Makes" />
+        <AssociationConnector Association="Rentals_DB_BusinessModel.FK_Vehicle_Types_Vehicle_Models" />
+        <AssociationConnector Association="Rentals_DB_BusinessModel.FK_Vehicles_Vehicle_Types" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

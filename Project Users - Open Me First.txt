@@ -1,0 +1,43 @@
+User Name : Corona
+Password : 12121212
+Role : User
+
+User Name : BobDane
+Password : 789789789
+Role : User
+
+User Name : AlexS
+Password : 159159159
+Role : User
+
+User Name : Masha_B
+Password : 794613
+Role : User
+
+User Name : AnnBrau
+Password : 123654789
+Role : User
+
+
+-------------------------------------------------------------------
+
+User Name : JohnnyD
+Password : 456456456
+Role : Employee
+
+
+User Name : mario
+Password : 5555555
+Role : Employee
+
+-------------------------------------------------------------------
+
+User Name : Chicka
+Password : 123123123
+Role : Admin
+
+-------------------------------------------------------------------
+
+
+
+

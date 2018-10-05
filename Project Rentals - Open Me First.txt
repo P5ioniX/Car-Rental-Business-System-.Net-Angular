@@ -1,0 +1,36 @@
+
+User : Corona - 12121212
+
+Open Rentals :
+Vehicle ID's - 33546521 , 18573446
+
+Returned Rentals :
+Vehicle ID's - 33546521 , 90563125 , 75125467
+
+-----------------------------------------------------------------
+
+User : BobDane - 789789789
+
+Open Rentals (Late) :
+Vehicle ID's - 59788524 
+
+Open Rentals :
+Vehicle ID's - 34205130
+
+Returned Rentals :
+Vehicle ID's - 59753126 
+
+-----------------------------------------------------------------
+
+User : AlexS - 159159159
+
+Open Rentals (Late) :
+Vehicle ID's - 64582164
+
+Open Rentals :
+Vehicle ID's - 75035954
+
+Returned Rentals :
+
+
+-----------------------------------------------------------------

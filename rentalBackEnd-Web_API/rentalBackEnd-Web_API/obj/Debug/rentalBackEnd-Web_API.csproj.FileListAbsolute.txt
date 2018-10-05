@@ -1,0 +1,479 @@
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll.config
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.pdb
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.xml
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.xml
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.xml
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.xml
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.xml
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.xml
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csprojResolveAssemblyReference.cache
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CoreCompileInputs.cache
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.pdb
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.BaseDB.resources
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.GenerateResource.Cache
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.RenameDefaultTables.resources
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.AddUserVeriablesToUserTable.resources
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Cors.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.xml
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Owin.dll
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.xml
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.xml
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.xml
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Traveler\Desktop\Rental_Web_APP\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll.config
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.pdb
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Owin.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Cors.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csprojResolveAssemblyReference.cache
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.BaseDB.resources
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.RenameDefaultTables.resources
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.AddUserVeriablesToUserTable.resources
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.GenerateResource.Cache
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CoreCompileInputs.cache
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.pdb
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 13.03\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CopyComplete
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll.config
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.pdb
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Owin.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Cors.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.xml
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csprojResolveAssemblyReference.cache
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.BaseDB.resources
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.RenameDefaultTables.resources
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.AddUserVeriablesToUserTable.resources
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.GenerateResource.cache
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CoreCompileInputs.cache
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CopyComplete
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.dll
+C:\Users\Traveler\Desktop\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.pdb
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll.config
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.pdb
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Owin.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Cors.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.xml
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.xml
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.xml
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.xml
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.xml
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.xml
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.xml
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.xml
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.xml
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.xml
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csprojResolveAssemblyReference.cache
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.BaseDB.resources
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.RenameDefaultTables.resources
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.AddUserVeriablesToUserTable.resources
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.GenerateResource.cache
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CoreCompileInputs.cache
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CopyComplete
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.dll
+C:\Project Backups\Rental_Web_App 19.03 - Start Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.pdb
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll.config
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.pdb
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Owin.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Cors.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.xml
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.xml
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.xml
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.xml
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.xml
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.xml
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.xml
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.xml
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.xml
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.xml
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csprojResolveAssemblyReference.cache
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.BaseDB.resources
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.RenameDefaultTables.resources
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.AddUserVeriablesToUserTable.resources
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.GenerateResource.cache
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CoreCompileInputs.cache
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CopyComplete
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.dll
+C:\Project Backups\Rental_Web_App 26.03 - Keep Refactoring\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.pdb
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll.config
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.pdb
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Owin.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Cors.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.xml
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.xml
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.xml
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.xml
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.xml
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.xml
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.xml
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.xml
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.xml
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.xml
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csprojResolveAssemblyReference.cache
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.BaseDB.resources
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.RenameDefaultTables.resources
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.AddUserVeriablesToUserTable.resources
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.GenerateResource.cache
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CoreCompileInputs.cache
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CopyComplete
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.dll
+D:\Project Backups\Rental_Web_App 03.04 - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.pdb
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll.config
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.pdb
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Owin.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Cors.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.xml
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.xml
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.xml
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.xml
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.xml
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.xml
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.xml
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.xml
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.xml
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.xml
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csprojResolveAssemblyReference.cache
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.BaseDB.resources
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.RenameDefaultTables.resources
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.AddUserVeriablesToUserTable.resources
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.GenerateResource.cache
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CoreCompileInputs.cache
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CopyComplete
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.dll
+D:\Project Backups\Rental_Web_App 08.04 - Final - Final\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.pdb
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll.config
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.pdb
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Owin.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Cors.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.xml
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.xml
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.xml
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.xml
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.xml
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.xml
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.xml
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.xml
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.xml
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.xml
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csprojResolveAssemblyReference.cache
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.BaseDB.resources
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.RenameDefaultTables.resources
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.AddUserVeriablesToUserTable.resources
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.GenerateResource.cache
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CoreCompileInputs.cache
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CopyComplete
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.dll
+D:\Project Backups\Rental_Web_App 09.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.pdb
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll.config
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.pdb
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Owin.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Cors.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.xml
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.xml
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.xml
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.xml
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.xml
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.xml
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.xml
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.xml
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.xml
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.xml
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csprojResolveAssemblyReference.cache
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.BaseDB.resources
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.RenameDefaultTables.resources
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.AddUserVeriablesToUserTable.resources
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.GenerateResource.cache
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CoreCompileInputs.cache
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CopyComplete
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.dll
+D:\Project Backups\Rental_Web_App 16.04\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.pdb
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll.config
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\rentalBackEnd-Web_API.pdb
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Owin.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Cors.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.xml
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\EntityFramework.SqlServer.xml
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.xml
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Cors.xml
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.xml
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\Newtonsoft.Json.xml
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Net.Http.Formatting.xml
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.xml
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.Cors.xml
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\bin\System.Web.Http.WebHost.xml
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csprojResolveAssemblyReference.cache
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.BaseDB.resources
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.RenameDefaultTables.resources
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd_Web_API.Migrations.AddUserVeriablesToUserTable.resources
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.GenerateResource.cache
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CoreCompileInputs.cache
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.csproj.CopyComplete
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.dll
+D:\Project Backups\Rental_Web_App_Material\rentalBackEnd-Web_API\rentalBackEnd-Web_API\obj\Debug\rentalBackEnd-Web_API.pdb
